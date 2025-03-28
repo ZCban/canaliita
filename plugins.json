@@ -1,23 +1,5 @@
 [
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=altadefinizione.vodka&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/ZCban/canaliita",
-        "fileSize": 10999,
-        "status": 1,
-        "language": "it",
-        "authors": [
-            "ZCban"
-        ],
-        "tvTypes": [
-            "Movie"
-        ],
-        "version": 1,
-        "internalName": "AltadefinizioneProvider",
-        "url": "https://raw.githubusercontent.com/ZCban/canaliita/builds/AltadefinizioneProvider.cs3",
-        "name": "AltadefinizioneProvider"
-    },
-    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/ZCban/canaliita",
