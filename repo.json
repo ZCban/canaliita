@@ -3,6 +3,6 @@
     "description": "Cloudstream canali-ita repository",
     "manifestVersion": 1,
     "pluginLists": [
-        "https://raw.githubusercontent.com/ZCban/canali-ita/builds/repo.json"
+        "https://raw.githubusercontent.com/ZCban/canali-ita/builds/plugins.json"
     ]
 }
