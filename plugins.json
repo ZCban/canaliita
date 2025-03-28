@@ -3,103 +3,19 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/ZCban/canali-ita",
-        "fileSize": 10999,
+        "fileSize": 10997,
         "status": 1,
         "language": "it",
         "authors": [
-        "ZCban"
+            "Gian-Fr",
+            "Adippe"
         ],
         "tvTypes": [
-            "Live"
+            "Movie"
         ],
         "version": 1,
         "internalName": "AltadefinizioneProvider",
         "url": "https://raw.githubusercontent.com/ZCban/canali-ita/builds/AltadefinizioneProvider.cs3",
         "name": "AltadefinizioneProvider"
-    }
-, 
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/ZCban/canali-ita",
-        "fileSize": 14522,
-        "status": 1,
-        "language": "it",
-        "authors": [
-        "ZCban"
-        ],
-        "tvTypes": [ "Live" ],
-        "version": 1,
-        "internalName": "FreeTVProvider",
-        "url": "https://raw.githubusercontent.com/ZCban/canali-ita/builds/FreeTVProvider.cs3",
-        "name": "FreeTVProvider"
-    }
-, 
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/ZCban/canali-ita",
-        "fileSize": 10785,
-        "status": 1,
-        "language": "it",
-        "authors": [
-        "ZCban"
-        ],
-        "tvTypes": [ "Live" ],
-        "version": 1,
-        "internalName": "GuardaSerieProvider",
-        "url": "https://raw.githubusercontent.com/ZCban/canali-ita/builds/GuardaSerieProvider.cs3",
-        "name": "GuardaSerieProvider"
-    }
-, 
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/ZCban/canali-ita",
-        "fileSize": 15329,
-        "status": 1,
-        "language": "it",
-        "authors": [
-        "ZCban"
-        ],
-        "tvTypes": [ "Live" ],
-        "version": 1,
-        "internalName": "IptvorgProvider",
-        "url": "https://raw.githubusercontent.com/ZCban/canali-ita/builds/IptvorgProvider.cs3",
-        "name": "IptvorgProvider"
-    }
-, 
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/ZCban/canali-ita",
-        "fileSize": 63698,
-        "status": 1,
-        "language": "it",
-        "authors": [
-        "ZCban"
-        ],
-        "tvTypes": [ "Live" ],
-        "version": 1,
-        "internalName": "SoraItalianStream",
-        "url": "https://raw.githubusercontent.com/ZCban/canali-ita/builds/SoraItalianStream.cs3",
-        "name": "SoraItalianStream"
-    }
-, 
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/ZCban/canali-ita",
-        "fileSize": 24880,
-        "status": 1,
-        "language": "it",
-        "authors": [
-        "ZCban"
-        ],
-        "tvTypes": [ "Live" ],
-        "version": 1,
-        "internalName": "TvItalianaProvider",
-        "url": "https://raw.githubusercontent.com/ZCban/canali-ita/builds/TvItalianaProvider.cs3",
-        "name": "TvItalianaProvider"
     }
 ] 
