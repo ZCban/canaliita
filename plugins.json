@@ -9,7 +9,9 @@
         "authors": [
         "ZCban"
         ],
-        "tvTypes": [ "Live" ],
+        "tvTypes": [
+            "Live"
+        ],
         "version": 1,
         "internalName": "AltadefinizioneProvider",
         "url": "https://raw.githubusercontent.com/ZCban/canali-ita/builds/AltadefinizioneProvider.cs3",
