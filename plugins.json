@@ -1,15 +1,15 @@
 [ 
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=altadefinizione.vodka&sz=%size%",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/ZCban/canali-ita",
         "fileSize": 10999,
         "status": 1,
-        \"language\": \"it\",
+        "language": "it",
         "authors": [
-        \"Gian-Fr\",\n        \"Adippe\"
+        "ZCban"
         ],
-        "tvTypes": [ "Movie" ],
+        "tvTypes": [ "Live" ],
         "version": 1,
         "internalName": "AltadefinizioneProvider",
         "url": "https://raw.githubusercontent.com/ZCban/canali-ita/builds/AltadefinizioneProvider.cs3",
@@ -22,8 +22,9 @@
         "repositoryUrl": "https://github.com/ZCban/canali-ita",
         "fileSize": 14522,
         "status": 1,
+        "language": "it",
         "authors": [
-        \"Gian-Fr\",\n        \"Adippe\"
+        "ZCban"
         ],
         "tvTypes": [ "Live" ],
         "version": 1,
@@ -33,16 +34,16 @@
     }
 , 
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=guardaserie.ceo&sz=%size%",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/ZCban/canali-ita",
         "fileSize": 10785,
         "status": 1,
-        \"language\": \"it\",
+        "language": "it",
         "authors": [
-        \"Gian-Fr\",\n        \"Adippe\"
+        "ZCban"
         ],
-        "tvTypes": [ "TvSeries" ],
+        "tvTypes": [ "Live" ],
         "version": 1,
         "internalName": "GuardaSerieProvider",
         "url": "https://raw.githubusercontent.com/ZCban/canali-ita/builds/GuardaSerieProvider.cs3",
@@ -55,8 +56,9 @@
         "repositoryUrl": "https://github.com/ZCban/canali-ita",
         "fileSize": 15329,
         "status": 1,
+        "language": "it",
         "authors": [
-        \"Gian-Fr\",\n        \"Adippe\"
+        "ZCban"
         ],
         "tvTypes": [ "Live" ],
         "version": 1,
@@ -66,19 +68,18 @@
     }
 , 
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=seriesflix.video&sz=%size%",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/ZCban/canali-ita",
         "fileSize": 63698,
         "status": 1,
-        \"language\": \"it\",
+        "language": "it",
         "authors": [
-        \"Gian-Fr\",\n        \"Adippe\"
+        "ZCban"
         ],
-        "tvTypes": [ "TvSeries\", \"Movie\", \"AnimeMovie\", \"Anime\", \"OVA" ],
+        "tvTypes": [ "Live" ],
         "version": 1,
         "internalName": "SoraItalianStream",
-        \"description\": \"Provider che utilizza tmdb. Non tutti i links sono funzionanti\",
         "url": "https://raw.githubusercontent.com/ZCban/canali-ita/builds/SoraItalianStream.cs3",
         "name": "SoraItalianStream"
     }
@@ -89,9 +90,9 @@
         "repositoryUrl": "https://github.com/ZCban/canali-ita",
         "fileSize": 24880,
         "status": 1,
-        \"language\": \"it\",
+        "language": "it",
         "authors": [
-        \"Gian-Fr\",\n        \"Adippe\"
+        "ZCban"
         ],
         "tvTypes": [ "Live" ],
         "version": 1,
