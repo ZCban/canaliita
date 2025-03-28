@@ -1,8 +1,0 @@
-{
-    "name": "Italian providers repository",
-    "description": "Cloudstream Italian Plugin Repository",
-    "manifestVersion": 1,
-    "pluginLists": [
-      "https://raw.githubusercontent.com/ZCban/canali-ita/builds/plugins.json"
-    ]
-}
