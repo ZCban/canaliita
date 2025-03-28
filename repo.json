@@ -1,8 +1,0 @@
-{
-    "name": "canali-ita",
-    "description": "Cloudstream canali-ita repository",
-    "manifestVersion": 1,
-    "pluginLists": [
-        "https://raw.githubusercontent.com/ZCban/canaliita/builds/plugins.json"
-    ]
-}
