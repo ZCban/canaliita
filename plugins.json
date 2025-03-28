@@ -3,11 +3,12 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=altadefinizione.vodka&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/ZCban/canali-ita",
-        "fileSize": 10999,
+        "fileSize": 10997,
         "status": 1,
         "language": "it",
         "authors": [
-            "ZCban"
+            "Gian-Fr",
+            "Adippe"
         ],
         "tvTypes": [
             "Movie"
@@ -23,9 +24,9 @@
         "repositoryUrl": "https://github.com/ZCban/canali-ita",
         "fileSize": 14522,
         "status": 1,
-        "language": "it",
         "authors": [
-            "ZCban"
+            "Gian-Fr",
+            "Adippe"
         ],
         "tvTypes": [
             "Live"
@@ -43,7 +44,8 @@
         "status": 1,
         "language": "it",
         "authors": [
-            "ZCban"
+            "Gian-Fr",
+            "Adippe"
         ],
         "tvTypes": [
             "TvSeries"
@@ -59,9 +61,9 @@
         "repositoryUrl": "https://github.com/ZCban/canali-ita",
         "fileSize": 15329,
         "status": 1,
-        "language": "it",
         "authors": [
-            "ZCban"
+            "Gian-Fr",
+            "Adippe"
         ],
         "tvTypes": [
             "Live"
@@ -75,11 +77,13 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=seriesflix.video&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/ZCban/canali-ita",
-        "fileSize": 63698,
+        "fileSize": 63700,
         "status": 1,
         "language": "it",
         "authors": [
-            "ZCban"
+            "Gian-Fr",
+            "Adippe",
+            "Forthe"
         ],
         "tvTypes": [
             "TvSeries",
@@ -98,11 +102,12 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/ZCban/canali-ita",
-        "fileSize": 24880,
+        "fileSize": 24879,
         "status": 1,
         "language": "it",
         "authors": [
-            "ZCban"
+            "Gian-Fr",
+            "Adippe"
         ],
         "tvTypes": [
             "Live"
