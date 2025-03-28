@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/ZCban/canali-ita/builds/repo.json
+https://raw.githubusercontent.com/ZCban/canaliita/builds/repo.json
