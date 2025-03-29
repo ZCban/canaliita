@@ -3,7 +3,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/ZCban/canaliita",
-        "fileSize": 10999,
+        "fileSize": 6245,
         "status": 1,
         "language": "it",
         "authors": [
@@ -11,9 +11,9 @@
         ],
         "tvTypes": [ "Live" ],
         "version": 1,
-        "internalName": "AltadefinizioneProvider",
-        "url": "https://raw.githubusercontent.com/ZCban/canaliita/builds/AltadefinizioneProvider.cs3",
-        "name": "AltadefinizioneProvider"
+        "internalName": "CalcioMonster",
+        "url": "https://raw.githubusercontent.com/ZCban/canaliita/builds/CalcioMonster.cs3",
+        "name": "CalcioMonster"
     }
 , 
     {
@@ -37,7 +37,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/ZCban/canaliita",
-        "fileSize": 10785,
+        "fileSize": 10786,
         "status": 1,
         "language": "it",
         "authors": [
@@ -71,7 +71,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/ZCban/canaliita",
-        "fileSize": 63698,
+        "fileSize": 63692,
         "status": 1,
         "language": "it",
         "authors": [
@@ -88,7 +88,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/ZCban/canaliita",
-        "fileSize": 24880,
+        "fileSize": 24881,
         "status": 1,
         "language": "it",
         "authors": [
