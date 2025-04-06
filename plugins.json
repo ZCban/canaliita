@@ -3,7 +3,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/ZCban/canaliita",
-        "fileSize": 9099,
+        "fileSize": 9096,
         "status": 1,
         "language": "it",
         "authors": [
@@ -14,6 +14,23 @@
         "internalName": "CalcioCodes",
         "url": "https://raw.githubusercontent.com/ZCban/canaliita/builds/CalcioCodes.cs3",
         "name": "CalcioCodes"
+    }
+, 
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/ZCban/canaliita",
+        "fileSize": 9590,
+        "status": 1,
+        "language": "it",
+        "authors": [
+        "ZCban"
+        ],
+        "tvTypes": [ "Live" ],
+        "version": 1,
+        "internalName": "CalcioStreamingLat",
+        "url": "https://raw.githubusercontent.com/ZCban/canaliita/builds/CalcioStreamingLat.cs3",
+        "name": "CalcioStreamingLat"
     }
 , 
     {
