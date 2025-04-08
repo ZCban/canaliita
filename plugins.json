@@ -20,7 +20,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/ZCban/canaliita",
-        "fileSize": 9590,
+        "fileSize": 9593,
         "status": 1,
         "language": "it",
         "authors": [
@@ -37,7 +37,24 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/ZCban/canaliita",
-        "fileSize": 8809,
+        "fileSize": 15096,
+        "status": 1,
+        "language": "it",
+        "authors": [
+        "ZCban"
+        ],
+        "tvTypes": [ "Live" ],
+        "version": 1,
+        "internalName": "FilmSenzaLimiti",
+        "url": "https://raw.githubusercontent.com/ZCban/canaliita/builds/FilmSenzaLimiti.cs3",
+        "name": "FilmSenzaLimiti"
+    }
+, 
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/ZCban/canaliita",
+        "fileSize": 8810,
         "status": 1,
         "language": "it",
         "authors": [
