@@ -3,7 +3,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/ZCban/canaliita",
-        "fileSize": 9098,
+        "fileSize": 9096,
         "status": 1,
         "language": "it",
         "authors": [
@@ -20,7 +20,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/ZCban/canaliita",
-        "fileSize": 9591,
+        "fileSize": 9589,
         "status": 1,
         "language": "it",
         "authors": [
@@ -37,7 +37,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/ZCban/canaliita",
-        "fileSize": 14245,
+        "fileSize": 11949,
         "status": 1,
         "language": "it",
         "authors": [
@@ -45,16 +45,16 @@
         ],
         "tvTypes": [ "Live" ],
         "version": 1,
-        "internalName": "FilmSenzaLimiti",
-        "url": "https://raw.githubusercontent.com/ZCban/canaliita/builds/FilmSenzaLimiti.cs3",
-        "name": "FilmSenzaLimiti"
+        "internalName": "GuardaSerieTV",
+        "url": "https://raw.githubusercontent.com/ZCban/canaliita/builds/GuardaSerieTV.cs3",
+        "name": "GuardaSerieTV"
     }
 , 
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/ZCban/canaliita",
-        "fileSize": 8810,
+        "fileSize": 8806,
         "status": 1,
         "language": "it",
         "authors": [
@@ -67,3 +67,4 @@
         "name": "SportZone"
     }
 ] 
+
