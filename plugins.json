@@ -3,74 +3,6 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/ZCban/canaliita",
-        "fileSize": 9099,
-        "status": 1,
-        "language": "it",
-        "authors": [
-        "ZCban"
-        ],
-        "tvTypes": [ "Live" ],
-        "version": 1,
-        "internalName": "CalcioCodes",
-        "url": "https://raw.githubusercontent.com/ZCban/canaliita/builds/CalcioCodes.cs3",
-        "name": "CalcioCodes"
-    }
-, 
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/ZCban/canaliita",
-        "fileSize": 9592,
-        "status": 1,
-        "language": "it",
-        "authors": [
-        "ZCban"
-        ],
-        "tvTypes": [ "Live" ],
-        "version": 1,
-        "internalName": "CalcioStreamingLat",
-        "url": "https://raw.githubusercontent.com/ZCban/canaliita/builds/CalcioStreamingLat.cs3",
-        "name": "CalcioStreamingLat"
-    }
-, 
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/ZCban/canaliita",
-        "fileSize": 12954,
-        "status": 1,
-        "language": "it",
-        "authors": [
-        "ZCban"
-        ],
-        "tvTypes": [ "Live" ],
-        "version": 1,
-        "internalName": "GuardaSerieTV",
-        "url": "https://raw.githubusercontent.com/ZCban/canaliita/builds/GuardaSerieTV.cs3",
-        "name": "GuardaSerieTV"
-    }
-, 
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/ZCban/canaliita",
-        "fileSize": 8806,
-        "status": 1,
-        "language": "it",
-        "authors": [
-        "ZCban"
-        ],
-        "tvTypes": [ "Live" ],
-        "version": 1,
-        "internalName": "SportZone",
-        "url": "https://raw.githubusercontent.com/ZCban/canaliita/builds/SportZone.cs3",
-        "name": "SportZone"
-    }
-
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/ZCban/canaliita",
         "fileSize": 18758,
         "status": 1,
         "language": "it",
@@ -83,5 +15,21 @@
         "url": "https://raw.githubusercontent.com/ZCban/canaliita/builds/FilmSenzaLimiti.cs3",
         "name": "FilmSenzaLimiti"
     }
-
+, 
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/ZCban/canaliita",
+        "fileSize": 18441,
+        "status": 1,
+        "language": "it",
+        "authors": [
+        "ZCban"
+        ],
+        "tvTypes": [ "Live" ],
+        "version": 1,
+        "internalName": "GuardaSerieTV",
+        "url": "https://raw.githubusercontent.com/ZCban/canaliita/builds/GuardaSerieTV.cs3",
+        "name": "GuardaSerieTV"
+    }
 ] 
