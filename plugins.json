@@ -3,7 +3,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/ZCban/canaliita",
-        "fileSize": 19608,
+        "fileSize": 22338,
         "status": 1,
         "language": "it",
         "authors": [
@@ -11,25 +11,8 @@
         ],
         "tvTypes": [ "Live" ],
         "version": 1,
-        "internalName": "Altadefinizione",
-        "url": "https://raw.githubusercontent.com/ZCban/canaliita/builds/Altadefinizione.cs3",
-        "name": "Altadefinizione"
-    }
-, 
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/ZCban/canaliita",
-        "fileSize": 18441,
-        "status": 1,
-        "language": "it",
-        "authors": [
-        "ZCban"
-        ],
-        "tvTypes": [ "Live" ],
-        "version": 1,
-        "internalName": "GuardaSerieTV",
-        "url": "https://raw.githubusercontent.com/ZCban/canaliita/builds/GuardaSerieTV.cs3",
-        "name": "GuardaSerieTV"
+        "internalName": "FilmSenzaLimiti",
+        "url": "https://raw.githubusercontent.com/ZCban/canaliita/builds/FilmSenzaLimiti.cs3",
+        "name": "FilmSenzaLimiti"
     }
 ] 
