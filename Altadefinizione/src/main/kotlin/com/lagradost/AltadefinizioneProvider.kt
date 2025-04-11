@@ -9,7 +9,7 @@ import org.jsoup.Jsoup
 import org.jsoup.nodes.Document
 
 class Altadefinizione : MainAPI() {
-    override var mainUrl = "https://altadefinizionegratis.space"
+    override var mainUrl = "https://altadefinizionegratis.store"
     override var name = "Altadefinizione"
     override val supportedTypes = setOf(TvType.Movie, TvType.TvSeries)
     override var lang = "it"
@@ -62,9 +62,16 @@ class Altadefinizione : MainAPI() {
     }
 
     override suspend fun search(query: String): List<SearchResponse> {
-        val url = "$mainUrl/?s=$query"
+        val url = "$mainUrl/"
         Log.d("Altadefinizione", "search -> URL: $url")
-        val doc = app.get(url).document
+
+        val doc = app.get(url, params = mapOf(
+            "story" to query,
+            "do" to "search",
+            "subaction" to "search",
+            "titleonly" to "3"
+        )).document
+
         return doc.select("div.wrapperImage").mapNotNull {
             val aTag = it.selectFirst("a[href]") ?: return@mapNotNull null
             val img = it.selectFirst("img")?.attr("src") ?: return@mapNotNull null
