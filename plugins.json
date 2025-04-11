@@ -3,7 +3,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/ZCban/canaliita",
-        "fileSize": 18758,
+        "fileSize": 19608,
         "status": 1,
         "language": "it",
         "authors": [
@@ -11,9 +11,9 @@
         ],
         "tvTypes": [ "Live" ],
         "version": 1,
-        "internalName": "FilmSenzaLimiti",
-        "url": "https://raw.githubusercontent.com/ZCban/canaliita/builds/FilmSenzaLimiti.cs3",
-        "name": "FilmSenzaLimiti"
+        "internalName": "Altadefinizione",
+        "url": "https://raw.githubusercontent.com/ZCban/canaliita/builds/Altadefinizione.cs3",
+        "name": "Altadefinizione"
     }
 , 
     {
@@ -33,4 +33,3 @@
         "name": "GuardaSerieTV"
     }
 ] 
-
