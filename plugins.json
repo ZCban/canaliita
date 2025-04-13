@@ -3,7 +3,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/ZCban/canaliita",
-        "fileSize": 21904,
+        "fileSize": 21906,
         "status": 1,
         "language": "it",
         "authors": [
@@ -20,7 +20,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/ZCban/canaliita",
-        "fileSize": 9097,
+        "fileSize": 9096,
         "status": 1,
         "language": "it",
         "authors": [
@@ -37,7 +37,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/ZCban/canaliita",
-        "fileSize": 10058,
+        "fileSize": 10052,
         "status": 1,
         "language": "it",
         "authors": [
@@ -54,7 +54,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/ZCban/canaliita",
-        "fileSize": 21793,
+        "fileSize": 22478,
         "status": 1,
         "language": "it",
         "authors": [
@@ -71,7 +71,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/ZCban/canaliita",
-        "fileSize": 22340,
+        "fileSize": 22338,
         "status": 1,
         "language": "it",
         "authors": [
@@ -88,7 +88,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/ZCban/canaliita",
-        "fileSize": 18445,
+        "fileSize": 18447,
         "status": 1,
         "language": "it",
         "authors": [
@@ -105,7 +105,24 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/ZCban/canaliita",
-        "fileSize": 8809,
+        "fileSize": 23341,
+        "status": 1,
+        "language": "it",
+        "authors": [
+        "ZCban"
+        ],
+        "tvTypes": [ "Live" ],
+        "version": 1,
+        "internalName": "Il_Genio_dello_Streaming",
+        "url": "https://raw.githubusercontent.com/ZCban/canaliita/builds/Il_Genio_dello_Streaming.cs3",
+        "name": "Il_Genio_dello_Streaming"
+    }
+, 
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/ZCban/canaliita",
+        "fileSize": 8811,
         "status": 1,
         "language": "it",
         "authors": [
@@ -122,7 +139,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/ZCban/canaliita",
-        "fileSize": 21597,
+        "fileSize": 21599,
         "status": 1,
         "language": "it",
         "authors": [
