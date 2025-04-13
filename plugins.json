@@ -3,7 +3,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/ZCban/canaliita",
-        "fileSize": 21905,
+        "fileSize": 21909,
         "status": 1,
         "language": "it",
         "authors": [
@@ -37,7 +37,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/ZCban/canaliita",
-        "fileSize": 9727,
+        "fileSize": 10055,
         "status": 1,
         "language": "it",
         "authors": [
@@ -54,7 +54,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/ZCban/canaliita",
-        "fileSize": 22336,
+        "fileSize": 22340,
         "status": 1,
         "language": "it",
         "authors": [
@@ -71,7 +71,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/ZCban/canaliita",
-        "fileSize": 18446,
+        "fileSize": 18447,
         "status": 1,
         "language": "it",
         "authors": [
@@ -88,7 +88,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/ZCban/canaliita",
-        "fileSize": 8809,
+        "fileSize": 8806,
         "status": 1,
         "language": "it",
         "authors": [
@@ -99,5 +99,22 @@
         "internalName": "SportZone",
         "url": "https://raw.githubusercontent.com/ZCban/canaliita/builds/SportZone.cs3",
         "name": "SportZone"
+    }
+, 
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/ZCban/canaliita",
+        "fileSize": 21140,
+        "status": 1,
+        "language": "it",
+        "authors": [
+        "ZCban"
+        ],
+        "tvTypes": [ "Live" ],
+        "version": 1,
+        "internalName": "TantiFilm",
+        "url": "https://raw.githubusercontent.com/ZCban/canaliita/builds/TantiFilm.cs3",
+        "name": "TantiFilm"
     }
 ] 
