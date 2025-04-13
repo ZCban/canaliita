@@ -3,7 +3,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/ZCban/canaliita",
-        "fileSize": 21909,
+        "fileSize": 21904,
         "status": 1,
         "language": "it",
         "authors": [
@@ -20,7 +20,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/ZCban/canaliita",
-        "fileSize": 9099,
+        "fileSize": 9097,
         "status": 1,
         "language": "it",
         "authors": [
@@ -37,7 +37,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/ZCban/canaliita",
-        "fileSize": 10055,
+        "fileSize": 10058,
         "status": 1,
         "language": "it",
         "authors": [
@@ -48,6 +48,23 @@
         "internalName": "CalcioStreamingLat",
         "url": "https://raw.githubusercontent.com/ZCban/canaliita/builds/CalcioStreamingLat.cs3",
         "name": "CalcioStreamingLat"
+    }
+, 
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/ZCban/canaliita",
+        "fileSize": 21793,
+        "status": 1,
+        "language": "it",
+        "authors": [
+        "ZCban"
+        ],
+        "tvTypes": [ "Live" ],
+        "version": 1,
+        "internalName": "CasaCinema",
+        "url": "https://raw.githubusercontent.com/ZCban/canaliita/builds/CasaCinema.cs3",
+        "name": "CasaCinema"
     }
 , 
     {
@@ -71,7 +88,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/ZCban/canaliita",
-        "fileSize": 18447,
+        "fileSize": 18445,
         "status": 1,
         "language": "it",
         "authors": [
@@ -88,7 +105,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/ZCban/canaliita",
-        "fileSize": 8806,
+        "fileSize": 8809,
         "status": 1,
         "language": "it",
         "authors": [
@@ -105,7 +122,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/ZCban/canaliita",
-        "fileSize": 21140,
+        "fileSize": 21597,
         "status": 1,
         "language": "it",
         "authors": [
