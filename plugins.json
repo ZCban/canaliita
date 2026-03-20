@@ -20,6 +20,23 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/ZCban/canaliita",
+        "fileSize": 20111,
+        "status": 1,
+        "language": "it",
+        "authors": [
+        "ZCban"
+        ],
+        "tvTypes": [ "Live" ],
+        "version": 1,
+        "internalName": "DiretteCommunity",
+        "url": "https://raw.githubusercontent.com/ZCban/canaliita/builds/DiretteCommunity.cs3",
+        "name": "DiretteCommunity"
+    }
+, 
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/ZCban/canaliita",
         "fileSize": 20981,
         "status": 1,
         "language": "it",
@@ -28,8 +45,8 @@
         ],
         "tvTypes": [ "Live" ],
         "version": 1,
-        "internalName": "CalcioStreaming",
-        "url": "https://raw.githubusercontent.com/ZCban/canaliita/builds/CalcioStreaming.cs3",
-        "name": "CalcioStreaming"
+        "internalName": "Sportsonline",
+        "url": "https://raw.githubusercontent.com/ZCban/canaliita/builds/Sportsonline.cs3",
+        "name": "Sportsonline"
     }
 ] 
