@@ -3,7 +3,24 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/ZCban/canaliita",
-        "fileSize": 11739,
+        "fileSize": 20172,
+        "status": 1,
+        "language": "it",
+        "authors": [
+        "ZCban"
+        ],
+        "tvTypes": [ "Live" ],
+        "version": 1,
+        "internalName": "CalcioGA",
+        "url": "https://raw.githubusercontent.com/ZCban/canaliita/builds/CalcioGA.cs3",
+        "name": "CalcioGA"
+    }
+, 
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/ZCban/canaliita",
+        "fileSize": 20981,
         "status": 1,
         "language": "it",
         "authors": [
